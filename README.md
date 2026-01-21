@@ -1,5 +1,28 @@
 # Software Development Unit (SDU)
 
+## 🚀 Skill Check – Mandatory Registration & Timeline
+
+### 🔗 Registration (Required)
+**All students must register before attempting the code challenge.**  
+👉 **Microsoft Form Registration Link:**  
+https://forms.office.com/r/NgQvXsT3JE
+
+---
+
+### 🗓️ Important Dates
+- **Jan 28:** Final Submission Deadline (Code + Documentation)
+- **Jan 29 – Jan 31:** Review Period  
+  *(Technical Review, Peer Review, and Grading)*
+
+---
+
+### 📩 Contact Information
+For any questions or clarifications, please contact:  
+- **Unit Head:** Kolawole Adetola
+- **Email:** kolawoleadetola630@gmail.com  
+- **Phone / WhatsApp :** +234 81 4437 6914
+
+
 ## Overview
 The Software Development Unit (SDU) is a structured learning community focused on building practical software development skills using modern tools, prompt engineering, and ethical development practices. The program is divided into three progressive tracks: Beginner, Intermediate, and Advanced.
 
@@ -8,7 +31,6 @@ The Software Development Unit (SDU) is a structured learning community focused o
 ## Learning Tracks
 
 ### Beginner Track
-
 Designed for members who are new to software development and prompt engineering.
 
 #### Requirements
@@ -17,11 +39,6 @@ Designed for members who are new to software development and prompt engineering.
 - GitHub account
 - GitHub Student Developer Pack
 - Access to Prompt Engineering learning materials
-
-<!-- #### Timeline
-**Duration: 7–8 Days**
-- 5 days: Learning prompt engineering fundamentals
-- 2–3 days: Implementing learned concepts -->
 
 #### Projects
 Participants will build beginner-friendly projects such as:
@@ -41,7 +58,6 @@ Members are expected to follow:
 ---
 
 ### Intermediate Track
-
 For members with prior development experience who want to integrate prompt engineering into real development workflows.
 
 #### Requirements
@@ -50,11 +66,6 @@ For members with prior development experience who want to integrate prompt engin
 - GitHub Student Developer Pack
 - Access to Prompt Engineering learning materials
 - Strong knowledge of either Frontend or Backend development (preferably both)
-<!-- 
-#### Timeline
-**Duration: 5 Days**
-- 3 days: Advanced prompt engineering concepts
-- 2 days: Practical implementation -->
 
 #### Projects
 - Build a project using your preferred tech stack, such as:
@@ -62,7 +73,7 @@ For members with prior development experience who want to integrate prompt engin
   - Python
   - Node.js
   - Django
-- Use **Lovable** in conjunction with your chosen stack to enhance productivity
+- Use **Lovable/v0.dev/** in conjunction with your chosen stack to enhance productivity
 
 #### Work Ethics
 Participants must demonstrate:
@@ -74,7 +85,6 @@ Participants must demonstrate:
 ---
 
 ### Advanced Track
-
 For experienced developers with real-world software deployment experience.
 
 #### Requirements
@@ -109,3 +119,4 @@ All members are expected to maintain professionalism, respect, and ethical devel
 
 ## License
 This project and its learning materials are maintained by the Software Development Unit (SDU).
+Feel free to use and adapt the resources provided, adhering to the principles of open-source collaboration.
